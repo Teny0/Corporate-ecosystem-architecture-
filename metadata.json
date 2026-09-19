@@ -1,0 +1,7 @@
+{
+  "name": "Business OS",
+  "description": "Executive Business Operating System & Conglomerate Ecosystem Analyzer across 18 levels from supply chains to McKinsey audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
